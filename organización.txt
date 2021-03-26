@@ -5,3 +5,17 @@ para esto se debe tener muchosconocimientos la dministracion quiere decir
 llevar ciertos pasos para llevar a cabo una correcta meta por decirlo de alguna forma
 la organixacion en centros de computo nos dice que pasos llevar a cabo para el uso correcto
 y adecuado sobre un centro de computo y lleva una jeraquia
+ejemplo
+1.-Operar el sistema de computación central y mantener el sistema disponible para los usuarios.
+2.-Ejecutar los procesos asignados conforme a los programas de producción y calendarios preestablecidos, dejando el registro correspondiente en las solicitudes de proceso.
+3.-Revisar los resultados de los procesos e incorporar acciones correctivas conforme a instrucciones de su superior inmediato.
+4.-Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la Dirección, conforme a parámetros preestablecidos.
+5.-Marcar y/o señalar los productos de los procesos ejecutados.
+6.-Llevar registros de fallas, problemas, soluciones, acciones desarrolladas, respaldos, recuperaciones y trabajos realizados.
+7.-Velar porque el sistema computarizado se mantenga funcionando apropiadamente y estar vigilante para detectar y corregir fallas en el mismo.
+8.-Realizar labores de mantenimiento y limpieza de los equipos del centro de cómputo.
+9.-Aplicar en forma estricta las normas de seguridad y control establecidas.
+10.-Mantener informado al jefe inmediato sobre el funcionamiento del centro de cómputo.
+11.-Cumplir con las normas, reglamentos y procedimientos establecidos por la Dirección para el desarrollo de las funciones asignadas.
+
+como podemos ver en este ejemplo llevan un orden las cosas que tenemos que hacer y si estas  no se cumplen no se puede llevar un acabo una administracion adecuada
