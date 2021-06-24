@@ -1,0 +1,18 @@
+forma de operar un cento de computo
+-Realizar las copias de respaldo:esto es muy importante ya que esto auyuda a que si en algun momento algo llegara a pasar como un apagon
+alguna sobre-carga o que un equipo llegase a dejar de funionar esto nos ayuda a no perder ninguna informacion ni teimo de trabajo que no
+se volveria a rcuperar
+
+-llevar registos de fallas,probelmas, soluciones, respaldos esto ayudara a no perder tiempo si en el pasado se tuvo un problema que llevo 
+un tiempo resolver asi podremos resolverlo nuevamente y sin perder tiempo de nuevo por ello se debe de tener registro de todo lo 
+anterior
+
+-Operar el sistema de computacion central y mantener el sistema dispnible para los usuarios esto es muy importante por que la meta es hacer 
+que los usarios se sientan comodos y tener un sistema amigable con ellos y que siempre este en funcionamiento para que puedan acceder 
+en cualquier momento
+
+-Vigilante para detectar y corregir fallas en el mismo es muy importante si se detecta algun fallo corregirlo de inmediato para que
+el prgrama no tenga mas fallos
+
+-aplicar en forma estricta las normas de seguridad y control establecidos para poder llevar un uso adecuado de los equipos siempe
+se debe seguir las normas   
